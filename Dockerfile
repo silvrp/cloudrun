@@ -1,17 +1,14 @@
-# Usa una imagen base de Python
-FROM python:3.9
-
-# Establece el directorio de trabajo
-WORKDIR /app
-
-# Copia los archivos necesarios
-COPY app.py requirements.txt ./
-
-# Instala las dependencias
+FROM python:3.7
+# Expose port you want your app on
+EXPOSE 8080
+# Upgrade pip and install requirements
+COPY requirements.txt requirements.txt
+RUN pip install -U pip
 RUN pip install -r requirements.txt
-
-# Expone el puerto 8501 (puerto predeterminado de Streamlit)
-EXPOSE 8501
-
-# Comando para ejecutar la aplicación
-CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+# Copy app code and set working directory
+COPY text_explorer text_explorer
+COPY app.py app.py
+COPY references references
+WORKDIR .
+# Run
+ENTRYPOINT [“streamlit”, “run”, “app.py”, “–server.port=8080”, “–server.address=0.0.0.0”]
