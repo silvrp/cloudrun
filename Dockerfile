@@ -1,14 +1,10 @@
-FROM python:3.7
-# Expose port you want your app on
-EXPOSE 8080
-# Upgrade pip and install requirements
-COPY requirements.txt requirements.txt
-RUN pip install -U pip
-RUN pip install -r requirements.txt
-# Copy app code and set working directory
-COPY text_explorer text_explorer
-COPY app.py app.py
-COPY references references
-WORKDIR .
-# Run
-ENTRYPOINT [“streamlit”, “run”, “app.py”, “–server.port=8080”, “–server.address=0.0.0.0”]
+FROM python:3.9-slim
+
+WORKDIR /app
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+CMD ["streamlit", "run", "app.py"]
