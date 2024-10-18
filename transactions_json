@@ -1,0 +1,3287 @@
+[
+    {
+        "Date": "2023-12-10",
+        "Merchant": "ASOS",
+        "Amount (€)": "421.77",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda online",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-08-02",
+        "Merchant": "Etsy",
+        "Amount (€)": "418.25",
+        "Tag1": "e-commerce",
+        "Tag2": "artesanías",
+        "Tag3": "compras online",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-04-26",
+        "Merchant": "TUI",
+        "Amount (€)": "732.41",
+        "Tag1": "viajes",
+        "Tag2": "vacaciones",
+        "Tag3": "paquetes",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-12-01",
+        "Merchant": "Sephora",
+        "Amount (€)": "231.94",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-01-14",
+        "Merchant": "Samsung Store",
+        "Amount (€)": "243.64",
+        "Tag1": "electrónica",
+        "Tag2": "tecnología",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-05-21",
+        "Merchant": "Boots",
+        "Amount (€)": "200.83",
+        "Tag1": "farmacia",
+        "Tag2": "salud",
+        "Tag3": "belleza",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-10-05",
+        "Merchant": "Domino's Pizza",
+        "Amount (€)": "47.26",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-09-01",
+        "Merchant": "TripAdvisor",
+        "Amount (€)": "273.42",
+        "Tag1": "viajes",
+        "Tag2": "reseñas",
+        "Tag3": "reservas",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-12-17",
+        "Merchant": "Expedia",
+        "Amount (€)": "513.33",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vuelos",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-17",
+        "Merchant": "Lonely Planet",
+        "Amount (€)": "367.07",
+        "Tag1": "viajes",
+        "Tag2": "guías",
+        "Tag3": "libros",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-05-17",
+        "Merchant": "Airbnb",
+        "Amount (€)": "817.63",
+        "Tag1": "alojamiento",
+        "Tag2": "viajes",
+        "Tag3": "vacaciones",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-02-09",
+        "Merchant": "Pizza Hut",
+        "Amount (€)": "64.87",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-12-20",
+        "Merchant": "Decathlon",
+        "Amount (€)": "75.73",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-04-05",
+        "Merchant": "Groupon",
+        "Amount (€)": "118.39",
+        "Tag1": "servicios",
+        "Tag2": "descuentos",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-01-10",
+        "Merchant": "Panera Bread",
+        "Amount (€)": "45.3",
+        "Tag1": "restaurante",
+        "Tag2": "comida saludable",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-04-09",
+        "Merchant": "Lidl",
+        "Amount (€)": "143.59",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-07-30",
+        "Merchant": "H&M",
+        "Amount (€)": "201.61",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-06-02",
+        "Merchant": "ASOS",
+        "Amount (€)": "299.77",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda online",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-12-19",
+        "Merchant": "Dia",
+        "Amount (€)": "25.99",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-04-20",
+        "Merchant": "Santander",
+        "Amount (€)": "40.69",
+        "Tag1": "banca",
+        "Tag2": "finanzas",
+        "Tag3": "servicios bancarios",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-07-11",
+        "Merchant": "KFC",
+        "Amount (€)": "11.56",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-11-28",
+        "Merchant": "Dunkin' Donuts",
+        "Amount (€)": "77.94",
+        "Tag1": "cafetería",
+        "Tag2": "bebidas",
+        "Tag3": "café",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-04-19",
+        "Merchant": "MediaMarkt",
+        "Amount (€)": "211.63",
+        "Tag1": "electrónica",
+        "Tag2": "electrodomésticos",
+        "Tag3": "tienda",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-12-29",
+        "Merchant": "Uber",
+        "Amount (€)": "192.19",
+        "Tag1": "transporte",
+        "Tag2": "servicios",
+        "Tag3": "movilidad",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-06-04",
+        "Merchant": "Amazon",
+        "Amount (€)": "314.71",
+        "Tag1": "e-commerce",
+        "Tag2": "electrónica",
+        "Tag3": "compras online",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-08-12",
+        "Merchant": "Carrefour",
+        "Amount (€)": "34.86",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-12-02",
+        "Merchant": "TUI",
+        "Amount (€)": "609.13",
+        "Tag1": "viajes",
+        "Tag2": "vacaciones",
+        "Tag3": "paquetes",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-07-26",
+        "Merchant": "Papa John's",
+        "Amount (€)": "22.09",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-08-07",
+        "Merchant": "Papa John's",
+        "Amount (€)": "47.06",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-01-03",
+        "Merchant": "Mercadona",
+        "Amount (€)": "66.08",
+        "Tag1": "supermercado",
+        "Tag2": "comida",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-04-16",
+        "Merchant": "Santander",
+        "Amount (€)": "-324.08",
+        "Tag1": "banca",
+        "Tag2": "finanzas",
+        "Tag3": "servicios bancarios",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-06-09",
+        "Merchant": "TUI",
+        "Amount (€)": "949.17",
+        "Tag1": "viajes",
+        "Tag2": "vacaciones",
+        "Tag3": "paquetes",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-01-17",
+        "Merchant": "TUI",
+        "Amount (€)": "261.94",
+        "Tag1": "viajes",
+        "Tag2": "vacaciones",
+        "Tag3": "paquetes",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-06-14",
+        "Merchant": "Samsung Store",
+        "Amount (€)": "197.78",
+        "Tag1": "electrónica",
+        "Tag2": "tecnología",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-01-16",
+        "Merchant": "Aliexpress",
+        "Amount (€)": "129.57",
+        "Tag1": "e-commerce",
+        "Tag2": "compras online",
+        "Tag3": "electrónica",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-05-30",
+        "Merchant": "Spotify",
+        "Amount (€)": "18.79",
+        "Tag1": "entretenimiento",
+        "Tag2": "música",
+        "Tag3": "suscripción",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-17",
+        "Merchant": "Expedia",
+        "Amount (€)": "103.27",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vuelos",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-07-08",
+        "Merchant": "Domino's Pizza",
+        "Amount (€)": "83.57",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-03-23",
+        "Merchant": "Spotify",
+        "Amount (€)": "18.09",
+        "Tag1": "entretenimiento",
+        "Tag2": "música",
+        "Tag3": "suscripción",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-03-03",
+        "Merchant": "Dia",
+        "Amount (€)": "110.65",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-07-11",
+        "Merchant": "Decathlon",
+        "Amount (€)": "237.71",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-03-19",
+        "Merchant": "Expedia",
+        "Amount (€)": "686.53",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vuelos",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-06-25",
+        "Merchant": "Netflix",
+        "Amount (€)": "35.65",
+        "Tag1": "entretenimiento",
+        "Tag2": "streaming",
+        "Tag3": "suscripción",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-07-16",
+        "Merchant": "Uber",
+        "Amount (€)": "99.89",
+        "Tag1": "transporte",
+        "Tag2": "servicios",
+        "Tag3": "movilidad",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-09-16",
+        "Merchant": "Patagonia",
+        "Amount (€)": "39.35",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-06-10",
+        "Merchant": "TGI Fridays",
+        "Amount (€)": "18.05",
+        "Tag1": "restaurante",
+        "Tag2": "comida internacional",
+        "Tag3": "comida",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-05-01",
+        "Merchant": "Subway",
+        "Amount (€)": "51.53",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-04-19",
+        "Merchant": "Starbucks",
+        "Amount (€)": "90.28",
+        "Tag1": "cafetería",
+        "Tag2": "bebidas",
+        "Tag3": "café",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-08-18",
+        "Merchant": "Airbnb",
+        "Amount (€)": "885.86",
+        "Tag1": "alojamiento",
+        "Tag2": "viajes",
+        "Tag3": "vacaciones",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-12-10",
+        "Merchant": "Mercadona",
+        "Amount (€)": "119.97",
+        "Tag1": "supermercado",
+        "Tag2": "comida",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-10-24",
+        "Merchant": "Lonely Planet",
+        "Amount (€)": "430.53",
+        "Tag1": "viajes",
+        "Tag2": "guías",
+        "Tag3": "libros",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-02-04",
+        "Merchant": "Panera Bread",
+        "Amount (€)": "92.55",
+        "Tag1": "restaurante",
+        "Tag2": "comida saludable",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-10-16",
+        "Merchant": "Subway",
+        "Amount (€)": "72.39",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-06-20",
+        "Merchant": "Wish",
+        "Amount (€)": "302.75",
+        "Tag1": "e-commerce",
+        "Tag2": "compras online",
+        "Tag3": "variedad",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-04-27",
+        "Merchant": "TripAdvisor",
+        "Amount (€)": "315.53",
+        "Tag1": "viajes",
+        "Tag2": "reseñas",
+        "Tag3": "reservas",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-11-17",
+        "Merchant": "TUI",
+        "Amount (€)": "973.05",
+        "Tag1": "viajes",
+        "Tag2": "vacaciones",
+        "Tag3": "paquetes",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-13",
+        "Merchant": "KFC",
+        "Amount (€)": "80.47",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-01-09",
+        "Merchant": "Santander",
+        "Amount (€)": "-357.53",
+        "Tag1": "banca",
+        "Tag2": "finanzas",
+        "Tag3": "servicios bancarios",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-12-16",
+        "Merchant": "Dunkin' Donuts",
+        "Amount (€)": "21.21",
+        "Tag1": "cafetería",
+        "Tag2": "bebidas",
+        "Tag3": "café",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-02-25",
+        "Merchant": "Skyscanner",
+        "Amount (€)": "668.89",
+        "Tag1": "viajes",
+        "Tag2": "vuelos",
+        "Tag3": "reservas",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-01-20",
+        "Merchant": "Amazon",
+        "Amount (€)": "153.5",
+        "Tag1": "e-commerce",
+        "Tag2": "electrónica",
+        "Tag3": "compras online",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-03-13",
+        "Merchant": "Chipotle",
+        "Amount (€)": "43.12",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-04-30",
+        "Merchant": "Nike",
+        "Amount (€)": "239.41",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "calzado",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-05-01",
+        "Merchant": "Vinted",
+        "Amount (€)": "401.8",
+        "Tag1": "e-commerce",
+        "Tag2": "ropa de segunda mano",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-01-10",
+        "Merchant": "Amazon",
+        "Amount (€)": "191.86",
+        "Tag1": "e-commerce",
+        "Tag2": "electrónica",
+        "Tag3": "compras online",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-02-25",
+        "Merchant": "Aliexpress",
+        "Amount (€)": "108.3",
+        "Tag1": "e-commerce",
+        "Tag2": "compras online",
+        "Tag3": "electrónica",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-12-21",
+        "Merchant": "Sephora",
+        "Amount (€)": "260.88",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-06-18",
+        "Merchant": "Etsy",
+        "Amount (€)": "461.41",
+        "Tag1": "e-commerce",
+        "Tag2": "artesanías",
+        "Tag3": "compras online",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-09-26",
+        "Merchant": "Mercadona",
+        "Amount (€)": "133.61",
+        "Tag1": "supermercado",
+        "Tag2": "comida",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-01-16",
+        "Merchant": "Spotify",
+        "Amount (€)": "9.65",
+        "Tag1": "entretenimiento",
+        "Tag2": "música",
+        "Tag3": "suscripción",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-02-09",
+        "Merchant": "Pizza Hut",
+        "Amount (€)": "80.2",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-01-14",
+        "Merchant": "H&M",
+        "Amount (€)": "283.46",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-08-10",
+        "Merchant": "MediaMarkt",
+        "Amount (€)": "24.81",
+        "Tag1": "electrónica",
+        "Tag2": "electrodomésticos",
+        "Tag3": "tienda",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-12-28",
+        "Merchant": "Apple Store",
+        "Amount (€)": "59.37",
+        "Tag1": "electrónica",
+        "Tag2": "tecnología",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-12-21",
+        "Merchant": "Booking.com",
+        "Amount (€)": "150.46",
+        "Tag1": "alojamiento",
+        "Tag2": "reservas",
+        "Tag3": "viajes",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-03-09",
+        "Merchant": "La Caixa",
+        "Amount (€)": "413.68",
+        "Tag1": "banca",
+        "Tag2": "finanzas",
+        "Tag3": "servicios bancarios",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-11-09",
+        "Merchant": "TripAdvisor",
+        "Amount (€)": "849.31",
+        "Tag1": "viajes",
+        "Tag2": "reseñas",
+        "Tag3": "reservas",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-04-10",
+        "Merchant": "Sephora",
+        "Amount (€)": "157.63",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-08-29",
+        "Merchant": "El Corte Inglés",
+        "Amount (€)": "26.78",
+        "Tag1": "tienda",
+        "Tag2": "moda",
+        "Tag3": "ropa",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-05-07",
+        "Merchant": "Pizza Hut",
+        "Amount (€)": "65.67",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-11-26",
+        "Merchant": "Subway",
+        "Amount (€)": "15.16",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-10-11",
+        "Merchant": "Panera Bread",
+        "Amount (€)": "45.03",
+        "Tag1": "restaurante",
+        "Tag2": "comida saludable",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-11-28",
+        "Merchant": "Red Lobster",
+        "Amount (€)": "41.02",
+        "Tag1": "restaurante",
+        "Tag2": "mariscos",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-12-13",
+        "Merchant": "Groupon",
+        "Amount (€)": "17.97",
+        "Tag1": "servicios",
+        "Tag2": "descuentos",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-10-11",
+        "Merchant": "TGI Fridays",
+        "Amount (€)": "73.62",
+        "Tag1": "restaurante",
+        "Tag2": "comida internacional",
+        "Tag3": "comida",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-05-28",
+        "Merchant": "Etsy",
+        "Amount (€)": "200.69",
+        "Tag1": "e-commerce",
+        "Tag2": "artesanías",
+        "Tag3": "compras online",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-03-13",
+        "Merchant": "Dia",
+        "Amount (€)": "35.73",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-19",
+        "Merchant": "Costa Coffee",
+        "Amount (€)": "53.34",
+        "Tag1": "cafetería",
+        "Tag2": "bebidas",
+        "Tag3": "café",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-03-01",
+        "Merchant": "Subway",
+        "Amount (€)": "46.46",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-12-06",
+        "Merchant": "Costa Coffee",
+        "Amount (€)": "46.29",
+        "Tag1": "cafetería",
+        "Tag2": "bebidas",
+        "Tag3": "café",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-11-04",
+        "Merchant": "Mango",
+        "Amount (€)": "141.43",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-03-11",
+        "Merchant": "Dunkin' Donuts",
+        "Amount (€)": "86.98",
+        "Tag1": "cafetería",
+        "Tag2": "bebidas",
+        "Tag3": "café",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-05-11",
+        "Merchant": "Thomas Cook",
+        "Amount (€)": "314.01",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vacaciones",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-03-01",
+        "Merchant": "Aliexpress",
+        "Amount (€)": "216.18",
+        "Tag1": "e-commerce",
+        "Tag2": "compras online",
+        "Tag3": "electrónica",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-11-02",
+        "Merchant": "Adidas",
+        "Amount (€)": "128",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "calzado",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-06-02",
+        "Merchant": "Subway",
+        "Amount (€)": "49.71",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-02-18",
+        "Merchant": "TGI Fridays",
+        "Amount (€)": "24.28",
+        "Tag1": "restaurante",
+        "Tag2": "comida internacional",
+        "Tag3": "comida",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-04-26",
+        "Merchant": "Lidl",
+        "Amount (€)": "32.35",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-03-28",
+        "Merchant": "Groupon",
+        "Amount (€)": "260.76",
+        "Tag1": "servicios",
+        "Tag2": "descuentos",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-01-12",
+        "Merchant": "Mercadona",
+        "Amount (€)": "117.96",
+        "Tag1": "supermercado",
+        "Tag2": "comida",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-11-26",
+        "Merchant": "Patagonia",
+        "Amount (€)": "116.21",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-12-03",
+        "Merchant": "The North Face",
+        "Amount (€)": "30.47",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-04-19",
+        "Merchant": "Airbnb",
+        "Amount (€)": "185.44",
+        "Tag1": "alojamiento",
+        "Tag2": "viajes",
+        "Tag3": "vacaciones",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-08-10",
+        "Merchant": "Domino's Pizza",
+        "Amount (€)": "6.78",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-07-26",
+        "Merchant": "Decathlon",
+        "Amount (€)": "111.99",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-07-05",
+        "Merchant": "Netflix",
+        "Amount (€)": "14.48",
+        "Tag1": "entretenimiento",
+        "Tag2": "streaming",
+        "Tag3": "suscripción",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-06-05",
+        "Merchant": "Etsy",
+        "Amount (€)": "308.93",
+        "Tag1": "e-commerce",
+        "Tag2": "artesanías",
+        "Tag3": "compras online",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-10-09",
+        "Merchant": "Subway",
+        "Amount (€)": "16.79",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-12-03",
+        "Merchant": "Mango",
+        "Amount (€)": "271.18",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-11-14",
+        "Merchant": "Starbucks",
+        "Amount (€)": "85.24",
+        "Tag1": "cafetería",
+        "Tag2": "bebidas",
+        "Tag3": "café",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-07-21",
+        "Merchant": "Thomas Cook",
+        "Amount (€)": "61.75",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vacaciones",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-05-25",
+        "Merchant": "Thomas Cook",
+        "Amount (€)": "753.57",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vacaciones",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-07-24",
+        "Merchant": "Lidl",
+        "Amount (€)": "134.89",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-01-12",
+        "Merchant": "Samsung Store",
+        "Amount (€)": "35.8",
+        "Tag1": "electrónica",
+        "Tag2": "tecnología",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-05-28",
+        "Merchant": "Vinted",
+        "Amount (€)": "364.07",
+        "Tag1": "e-commerce",
+        "Tag2": "ropa de segunda mano",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-01-13",
+        "Merchant": "H&M",
+        "Amount (€)": "67.5",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-10-31",
+        "Merchant": "Repsol",
+        "Amount (€)": "184.69",
+        "Tag1": "combustible",
+        "Tag2": "transporte",
+        "Tag3": "gasolina",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-10-12",
+        "Merchant": "Groupon",
+        "Amount (€)": "148.49",
+        "Tag1": "servicios",
+        "Tag2": "descuentos",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-04-24",
+        "Merchant": "Netflix",
+        "Amount (€)": "38.84",
+        "Tag1": "entretenimiento",
+        "Tag2": "streaming",
+        "Tag3": "suscripción",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-10-27",
+        "Merchant": "Pizza Hut",
+        "Amount (€)": "99.76",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-09-26",
+        "Merchant": "Expedia",
+        "Amount (€)": "99.8",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vuelos",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-03-21",
+        "Merchant": "Spotify",
+        "Amount (€)": "42.46",
+        "Tag1": "entretenimiento",
+        "Tag2": "música",
+        "Tag3": "suscripción",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-07-29",
+        "Merchant": "Boots",
+        "Amount (€)": "84.31",
+        "Tag1": "farmacia",
+        "Tag2": "salud",
+        "Tag3": "belleza",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-04-18",
+        "Merchant": "Vinted",
+        "Amount (€)": "326.35",
+        "Tag1": "e-commerce",
+        "Tag2": "ropa de segunda mano",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-02-19",
+        "Merchant": "Papa John's",
+        "Amount (€)": "72.46",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-02-16",
+        "Merchant": "Wish",
+        "Amount (€)": "292.67",
+        "Tag1": "e-commerce",
+        "Tag2": "compras online",
+        "Tag3": "variedad",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-05-22",
+        "Merchant": "Etsy",
+        "Amount (€)": "465.51",
+        "Tag1": "e-commerce",
+        "Tag2": "artesanías",
+        "Tag3": "compras online",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-10-18",
+        "Merchant": "Etsy",
+        "Amount (€)": "92",
+        "Tag1": "e-commerce",
+        "Tag2": "artesanías",
+        "Tag3": "compras online",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-02-13",
+        "Merchant": "Amazon",
+        "Amount (€)": "13.67",
+        "Tag1": "e-commerce",
+        "Tag2": "electrónica",
+        "Tag3": "compras online",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-04-19",
+        "Merchant": "Spotify",
+        "Amount (€)": "15.77",
+        "Tag1": "entretenimiento",
+        "Tag2": "música",
+        "Tag3": "suscripción",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-19",
+        "Merchant": "Samsung Store",
+        "Amount (€)": "227.6",
+        "Tag1": "electrónica",
+        "Tag2": "tecnología",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-06-19",
+        "Merchant": "TripAdvisor",
+        "Amount (€)": "361.68",
+        "Tag1": "viajes",
+        "Tag2": "reseñas",
+        "Tag3": "reservas",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-07-18",
+        "Merchant": "Aliexpress",
+        "Amount (€)": "295.86",
+        "Tag1": "e-commerce",
+        "Tag2": "compras online",
+        "Tag3": "electrónica",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-02-18",
+        "Merchant": "Bath & Body Works",
+        "Amount (€)": "67.36",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-24",
+        "Merchant": "Papa John's",
+        "Amount (€)": "83.56",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-06-23",
+        "Merchant": "Mango",
+        "Amount (€)": "273.66",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-10-09",
+        "Merchant": "El Corte Inglés",
+        "Amount (€)": "148.46",
+        "Tag1": "tienda",
+        "Tag2": "moda",
+        "Tag3": "ropa",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-11-20",
+        "Merchant": "Repsol",
+        "Amount (€)": "165.92",
+        "Tag1": "combustible",
+        "Tag2": "transporte",
+        "Tag3": "gasolina",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-06-20",
+        "Merchant": "McDonald's",
+        "Amount (€)": "95.81",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-06-17",
+        "Merchant": "Groupon",
+        "Amount (€)": "255.33",
+        "Tag1": "servicios",
+        "Tag2": "descuentos",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-10-29",
+        "Merchant": "El Corte Inglés",
+        "Amount (€)": "151.59",
+        "Tag1": "tienda",
+        "Tag2": "moda",
+        "Tag3": "ropa",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-02-13",
+        "Merchant": "Groupon",
+        "Amount (€)": "58.73",
+        "Tag1": "servicios",
+        "Tag2": "descuentos",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-02-27",
+        "Merchant": "Apple Store",
+        "Amount (€)": "94.78",
+        "Tag1": "electrónica",
+        "Tag2": "tecnología",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-10-04",
+        "Merchant": "Lidl",
+        "Amount (€)": "146.22",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-07-01",
+        "Merchant": "Nike",
+        "Amount (€)": "78.45",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "calzado",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-02-22",
+        "Merchant": "TUI",
+        "Amount (€)": "61.32",
+        "Tag1": "viajes",
+        "Tag2": "vacaciones",
+        "Tag3": "paquetes",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-12-06",
+        "Merchant": "Zalando",
+        "Amount (€)": "230.89",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda online",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-07-06",
+        "Merchant": "KFC",
+        "Amount (€)": "65.81",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-06-28",
+        "Merchant": "Vinted",
+        "Amount (€)": "376.51",
+        "Tag1": "e-commerce",
+        "Tag2": "ropa de segunda mano",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-12-30",
+        "Merchant": "Groupon",
+        "Amount (€)": "280.87",
+        "Tag1": "servicios",
+        "Tag2": "descuentos",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-02-05",
+        "Merchant": "Mercadona",
+        "Amount (€)": "88.88",
+        "Tag1": "supermercado",
+        "Tag2": "comida",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-22",
+        "Merchant": "Burger King",
+        "Amount (€)": "13.54",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-06-15",
+        "Merchant": "MediaMarkt",
+        "Amount (€)": "43.64",
+        "Tag1": "electrónica",
+        "Tag2": "electrodomésticos",
+        "Tag3": "tienda",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-10-07",
+        "Merchant": "Boots",
+        "Amount (€)": "243.36",
+        "Tag1": "farmacia",
+        "Tag2": "salud",
+        "Tag3": "belleza",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-10-28",
+        "Merchant": "Skyscanner",
+        "Amount (€)": "282.86",
+        "Tag1": "viajes",
+        "Tag2": "vuelos",
+        "Tag3": "reservas",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-07-10",
+        "Merchant": "Domino's Pizza",
+        "Amount (€)": "43.59",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-05-01",
+        "Merchant": "McDonald's",
+        "Amount (€)": "34.63",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-04-02",
+        "Merchant": "TripAdvisor",
+        "Amount (€)": "87.86",
+        "Tag1": "viajes",
+        "Tag2": "reseñas",
+        "Tag3": "reservas",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-04-16",
+        "Merchant": "Bath & Body Works",
+        "Amount (€)": "262.94",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-05-12",
+        "Merchant": "Groupon",
+        "Amount (€)": "201.76",
+        "Tag1": "servicios",
+        "Tag2": "descuentos",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-11-30",
+        "Merchant": "Costa Coffee",
+        "Amount (€)": "57.27",
+        "Tag1": "cafetería",
+        "Tag2": "bebidas",
+        "Tag3": "café",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-11-09",
+        "Merchant": "Samsung Store",
+        "Amount (€)": "109.08",
+        "Tag1": "electrónica",
+        "Tag2": "tecnología",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-02-06",
+        "Merchant": "Adidas",
+        "Amount (€)": "203.67",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "calzado",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-08-24",
+        "Merchant": "Wish",
+        "Amount (€)": "491.92",
+        "Tag1": "e-commerce",
+        "Tag2": "compras online",
+        "Tag3": "variedad",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-09-28",
+        "Merchant": "Mercadona",
+        "Amount (€)": "105.7",
+        "Tag1": "supermercado",
+        "Tag2": "comida",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-01-03",
+        "Merchant": "Dunkin' Donuts",
+        "Amount (€)": "32.77",
+        "Tag1": "cafetería",
+        "Tag2": "bebidas",
+        "Tag3": "café",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-03-20",
+        "Merchant": "Boots",
+        "Amount (€)": "249.64",
+        "Tag1": "farmacia",
+        "Tag2": "salud",
+        "Tag3": "belleza",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-12-12",
+        "Merchant": "Bath & Body Works",
+        "Amount (€)": "24.36",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-06-13",
+        "Merchant": "Lidl",
+        "Amount (€)": "107.56",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-06-09",
+        "Merchant": "Decathlon",
+        "Amount (€)": "278.74",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-11-11",
+        "Merchant": "Sephora",
+        "Amount (€)": "150.22",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-04-25",
+        "Merchant": "Wish",
+        "Amount (€)": "88.32",
+        "Tag1": "e-commerce",
+        "Tag2": "compras online",
+        "Tag3": "variedad",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-02-12",
+        "Merchant": "Netflix",
+        "Amount (€)": "28.04",
+        "Tag1": "entretenimiento",
+        "Tag2": "streaming",
+        "Tag3": "suscripción",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-03-14",
+        "Merchant": "El Corte Inglés",
+        "Amount (€)": "194.54",
+        "Tag1": "tienda",
+        "Tag2": "moda",
+        "Tag3": "ropa",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-04-07",
+        "Merchant": "Boots",
+        "Amount (€)": "79.1",
+        "Tag1": "farmacia",
+        "Tag2": "salud",
+        "Tag3": "belleza",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-06-23",
+        "Merchant": "Red Lobster",
+        "Amount (€)": "20.51",
+        "Tag1": "restaurante",
+        "Tag2": "mariscos",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-01-02",
+        "Merchant": "Apple Store",
+        "Amount (€)": "70.89",
+        "Tag1": "electrónica",
+        "Tag2": "tecnología",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-11",
+        "Merchant": "ASOS",
+        "Amount (€)": "305.08",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda online",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-02-09",
+        "Merchant": "Patagonia",
+        "Amount (€)": "162.98",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-08-07",
+        "Merchant": "Zalando",
+        "Amount (€)": "24.3",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda online",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-10-28",
+        "Merchant": "Repsol",
+        "Amount (€)": "103.34",
+        "Tag1": "combustible",
+        "Tag2": "transporte",
+        "Tag3": "gasolina",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-08-30",
+        "Merchant": "Netflix",
+        "Amount (€)": "31.87",
+        "Tag1": "entretenimiento",
+        "Tag2": "streaming",
+        "Tag3": "suscripción",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-02-17",
+        "Merchant": "Chipotle",
+        "Amount (€)": "44.72",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-08-23",
+        "Merchant": "Netflix",
+        "Amount (€)": "33.62",
+        "Tag1": "entretenimiento",
+        "Tag2": "streaming",
+        "Tag3": "suscripción",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-09-11",
+        "Merchant": "McDonald's",
+        "Amount (€)": "97.56",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-05-11",
+        "Merchant": "KFC",
+        "Amount (€)": "44.66",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-03-15",
+        "Merchant": "El Corte Inglés",
+        "Amount (€)": "265.14",
+        "Tag1": "tienda",
+        "Tag2": "moda",
+        "Tag3": "ropa",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-05-14",
+        "Merchant": "Spotify",
+        "Amount (€)": "19.69",
+        "Tag1": "entretenimiento",
+        "Tag2": "música",
+        "Tag3": "suscripción",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-07-23",
+        "Merchant": "Mercadona",
+        "Amount (€)": "148.05",
+        "Tag1": "supermercado",
+        "Tag2": "comida",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-11-28",
+        "Merchant": "Bath & Body Works",
+        "Amount (€)": "129.63",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-11-28",
+        "Merchant": "Aliexpress",
+        "Amount (€)": "288.07",
+        "Tag1": "e-commerce",
+        "Tag2": "compras online",
+        "Tag3": "electrónica",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-01-23",
+        "Merchant": "Mango",
+        "Amount (€)": "62.65",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-10-15",
+        "Merchant": "Groupon",
+        "Amount (€)": "225.5",
+        "Tag1": "servicios",
+        "Tag2": "descuentos",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-08-01",
+        "Merchant": "Papa John's",
+        "Amount (€)": "86.57",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-03-22",
+        "Merchant": "The North Face",
+        "Amount (€)": "287.59",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-10-10",
+        "Merchant": "ASOS",
+        "Amount (€)": "154.92",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda online",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-04-04",
+        "Merchant": "MediaMarkt",
+        "Amount (€)": "159.73",
+        "Tag1": "electrónica",
+        "Tag2": "electrodomésticos",
+        "Tag3": "tienda",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-09-29",
+        "Merchant": "TUI",
+        "Amount (€)": "607.72",
+        "Tag1": "viajes",
+        "Tag2": "vacaciones",
+        "Tag3": "paquetes",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-05-07",
+        "Merchant": "Bath & Body Works",
+        "Amount (€)": "195.34",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-12-30",
+        "Merchant": "Vinted",
+        "Amount (€)": "396.97",
+        "Tag1": "e-commerce",
+        "Tag2": "ropa de segunda mano",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-12-24",
+        "Merchant": "Domino's Pizza",
+        "Amount (€)": "22.23",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-01-23",
+        "Merchant": "Uber",
+        "Amount (€)": "297.04",
+        "Tag1": "transporte",
+        "Tag2": "servicios",
+        "Tag3": "movilidad",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-06-12",
+        "Merchant": "Dia",
+        "Amount (€)": "114.87",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-05-06",
+        "Merchant": "La Caixa",
+        "Amount (€)": "-94.8",
+        "Tag1": "banca",
+        "Tag2": "finanzas",
+        "Tag3": "servicios bancarios",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-03-29",
+        "Merchant": "Bath & Body Works",
+        "Amount (€)": "167.08",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-05-12",
+        "Merchant": "Santander",
+        "Amount (€)": "-97.07",
+        "Tag1": "banca",
+        "Tag2": "finanzas",
+        "Tag3": "servicios bancarios",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-06-11",
+        "Merchant": "Nike",
+        "Amount (€)": "282.71",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "calzado",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-05-10",
+        "Merchant": "La Caixa",
+        "Amount (€)": "295.75",
+        "Tag1": "banca",
+        "Tag2": "finanzas",
+        "Tag3": "servicios bancarios",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-01-23",
+        "Merchant": "Mercadona",
+        "Amount (€)": "123.07",
+        "Tag1": "supermercado",
+        "Tag2": "comida",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-07-11",
+        "Merchant": "TripAdvisor",
+        "Amount (€)": "851.68",
+        "Tag1": "viajes",
+        "Tag2": "reseñas",
+        "Tag3": "reservas",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-07-07",
+        "Merchant": "Mango",
+        "Amount (€)": "101",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-03-17",
+        "Merchant": "KFC",
+        "Amount (€)": "83.85",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-01-14",
+        "Merchant": "TripAdvisor",
+        "Amount (€)": "129.02",
+        "Tag1": "viajes",
+        "Tag2": "reseñas",
+        "Tag3": "reservas",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-12-27",
+        "Merchant": "H&M",
+        "Amount (€)": "295.74",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-07-21",
+        "Merchant": "Booking.com",
+        "Amount (€)": "740.02",
+        "Tag1": "alojamiento",
+        "Tag2": "reservas",
+        "Tag3": "viajes",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-10-24",
+        "Merchant": "Lidl",
+        "Amount (€)": "87.89",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-09-09",
+        "Merchant": "Expedia",
+        "Amount (€)": "969.41",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vuelos",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-02-10",
+        "Merchant": "Etsy",
+        "Amount (€)": "365.71",
+        "Tag1": "e-commerce",
+        "Tag2": "artesanías",
+        "Tag3": "compras online",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-08-13",
+        "Merchant": "TUI",
+        "Amount (€)": "264.41",
+        "Tag1": "viajes",
+        "Tag2": "vacaciones",
+        "Tag3": "paquetes",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-01-02",
+        "Merchant": "Amazon",
+        "Amount (€)": "79.64",
+        "Tag1": "e-commerce",
+        "Tag2": "electrónica",
+        "Tag3": "compras online",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-05-22",
+        "Merchant": "Pizza Hut",
+        "Amount (€)": "52.56",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-09-24",
+        "Merchant": "Thomas Cook",
+        "Amount (€)": "665.82",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vacaciones",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-10-08",
+        "Merchant": "Lonely Planet",
+        "Amount (€)": "617.03",
+        "Tag1": "viajes",
+        "Tag2": "guías",
+        "Tag3": "libros",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-02-13",
+        "Merchant": "Etsy",
+        "Amount (€)": "177.59",
+        "Tag1": "e-commerce",
+        "Tag2": "artesanías",
+        "Tag3": "compras online",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-07-01",
+        "Merchant": "Fnac",
+        "Amount (€)": "14.65",
+        "Tag1": "electrónica",
+        "Tag2": "entretenimiento",
+        "Tag3": "librería",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-11-15",
+        "Merchant": "Costa Coffee",
+        "Amount (€)": "15.98",
+        "Tag1": "cafetería",
+        "Tag2": "bebidas",
+        "Tag3": "café",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-10-18",
+        "Merchant": "Santander",
+        "Amount (€)": "120.44",
+        "Tag1": "banca",
+        "Tag2": "finanzas",
+        "Tag3": "servicios bancarios",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-03-12",
+        "Merchant": "Skyscanner",
+        "Amount (€)": "744.1",
+        "Tag1": "viajes",
+        "Tag2": "vuelos",
+        "Tag3": "reservas",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-11-18",
+        "Merchant": "Lonely Planet",
+        "Amount (€)": "784.83",
+        "Tag1": "viajes",
+        "Tag2": "guías",
+        "Tag3": "libros",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-04-03",
+        "Merchant": "McDonald's",
+        "Amount (€)": "81.4",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-11-12",
+        "Merchant": "Burger King",
+        "Amount (€)": "36.23",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-12-16",
+        "Merchant": "Chipotle",
+        "Amount (€)": "41.6",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-06-08",
+        "Merchant": "Mercadona",
+        "Amount (€)": "23.23",
+        "Tag1": "supermercado",
+        "Tag2": "comida",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-01-02",
+        "Merchant": "Panera Bread",
+        "Amount (€)": "98.59",
+        "Tag1": "restaurante",
+        "Tag2": "comida saludable",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-08-06",
+        "Merchant": "The North Face",
+        "Amount (€)": "237.79",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-08-23",
+        "Merchant": "Vinted",
+        "Amount (€)": "346.97",
+        "Tag1": "e-commerce",
+        "Tag2": "ropa de segunda mano",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-06-27",
+        "Merchant": "Spotify",
+        "Amount (€)": "42.72",
+        "Tag1": "entretenimiento",
+        "Tag2": "música",
+        "Tag3": "suscripción",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-10-07",
+        "Merchant": "Skyscanner",
+        "Amount (€)": "644.56",
+        "Tag1": "viajes",
+        "Tag2": "vuelos",
+        "Tag3": "reservas",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-03-28",
+        "Merchant": "The North Face",
+        "Amount (€)": "113.92",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-06-18",
+        "Merchant": "Bath & Body Works",
+        "Amount (€)": "257.95",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-08-28",
+        "Merchant": "Bath & Body Works",
+        "Amount (€)": "105.95",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-11-06",
+        "Merchant": "Fnac",
+        "Amount (€)": "33.55",
+        "Tag1": "electrónica",
+        "Tag2": "entretenimiento",
+        "Tag3": "librería",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-11-26",
+        "Merchant": "Vinted",
+        "Amount (€)": "46.32",
+        "Tag1": "e-commerce",
+        "Tag2": "ropa de segunda mano",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-04-15",
+        "Merchant": "Panera Bread",
+        "Amount (€)": "62.9",
+        "Tag1": "restaurante",
+        "Tag2": "comida saludable",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-06-08",
+        "Merchant": "TripAdvisor",
+        "Amount (€)": "616.56",
+        "Tag1": "viajes",
+        "Tag2": "reseñas",
+        "Tag3": "reservas",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-06-22",
+        "Merchant": "Nike",
+        "Amount (€)": "37.67",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "calzado",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-10-18",
+        "Merchant": "Fnac",
+        "Amount (€)": "31.58",
+        "Tag1": "electrónica",
+        "Tag2": "entretenimiento",
+        "Tag3": "librería",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-12-05",
+        "Merchant": "Booking.com",
+        "Amount (€)": "307.74",
+        "Tag1": "alojamiento",
+        "Tag2": "reservas",
+        "Tag3": "viajes",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-08-18",
+        "Merchant": "Booking.com",
+        "Amount (€)": "467.68",
+        "Tag1": "alojamiento",
+        "Tag2": "reservas",
+        "Tag3": "viajes",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-04-10",
+        "Merchant": "Burger King",
+        "Amount (€)": "31.38",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-07-07",
+        "Merchant": "Panera Bread",
+        "Amount (€)": "7.01",
+        "Tag1": "restaurante",
+        "Tag2": "comida saludable",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-03-02",
+        "Merchant": "Panera Bread",
+        "Amount (€)": "67.14",
+        "Tag1": "restaurante",
+        "Tag2": "comida saludable",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-07-01",
+        "Merchant": "Dia",
+        "Amount (€)": "76.53",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-23",
+        "Merchant": "Sephora",
+        "Amount (€)": "110.89",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-02-04",
+        "Merchant": "Sephora",
+        "Amount (€)": "106.45",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-10-19",
+        "Merchant": "McDonald's",
+        "Amount (€)": "30.22",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-02-06",
+        "Merchant": "Samsung Store",
+        "Amount (€)": "38.51",
+        "Tag1": "electrónica",
+        "Tag2": "tecnología",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-02-11",
+        "Merchant": "TUI",
+        "Amount (€)": "62.85",
+        "Tag1": "viajes",
+        "Tag2": "vacaciones",
+        "Tag3": "paquetes",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-09",
+        "Merchant": "TGI Fridays",
+        "Amount (€)": "6.62",
+        "Tag1": "restaurante",
+        "Tag2": "comida internacional",
+        "Tag3": "comida",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-06-18",
+        "Merchant": "El Corte Inglés",
+        "Amount (€)": "137.77",
+        "Tag1": "tienda",
+        "Tag2": "moda",
+        "Tag3": "ropa",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-05-11",
+        "Merchant": "Bath & Body Works",
+        "Amount (€)": "176.66",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-07-03",
+        "Merchant": "Repsol",
+        "Amount (€)": "136.36",
+        "Tag1": "combustible",
+        "Tag2": "transporte",
+        "Tag3": "gasolina",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-06",
+        "Merchant": "The North Face",
+        "Amount (€)": "32.27",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-08-25",
+        "Merchant": "Decathlon",
+        "Amount (€)": "118.64",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-09-02",
+        "Merchant": "Zalando",
+        "Amount (€)": "100.45",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda online",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-06-28",
+        "Merchant": "TGI Fridays",
+        "Amount (€)": "10.76",
+        "Tag1": "restaurante",
+        "Tag2": "comida internacional",
+        "Tag3": "comida",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-10-19",
+        "Merchant": "Spotify",
+        "Amount (€)": "30.11",
+        "Tag1": "entretenimiento",
+        "Tag2": "música",
+        "Tag3": "suscripción",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-03-17",
+        "Merchant": "Zara",
+        "Amount (€)": "278.17",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-02-16",
+        "Merchant": "Repsol",
+        "Amount (€)": "242.95",
+        "Tag1": "combustible",
+        "Tag2": "transporte",
+        "Tag3": "gasolina",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-17",
+        "Merchant": "Decathlon",
+        "Amount (€)": "247.71",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-08-09",
+        "Merchant": "Papa John's",
+        "Amount (€)": "60.89",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-03-15",
+        "Merchant": "Vinted",
+        "Amount (€)": "291.93",
+        "Tag1": "e-commerce",
+        "Tag2": "ropa de segunda mano",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-11-14",
+        "Merchant": "Dia",
+        "Amount (€)": "85.86",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-12-20",
+        "Merchant": "MediaMarkt",
+        "Amount (€)": "193.58",
+        "Tag1": "electrónica",
+        "Tag2": "electrodomésticos",
+        "Tag3": "tienda",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-07-18",
+        "Merchant": "Netflix",
+        "Amount (€)": "28.99",
+        "Tag1": "entretenimiento",
+        "Tag2": "streaming",
+        "Tag3": "suscripción",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-05-02",
+        "Merchant": "Zalando",
+        "Amount (€)": "390.23",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda online",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-08-11",
+        "Merchant": "Wish",
+        "Amount (€)": "324.23",
+        "Tag1": "e-commerce",
+        "Tag2": "compras online",
+        "Tag3": "variedad",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-03-12",
+        "Merchant": "KFC",
+        "Amount (€)": "53.12",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-10-13",
+        "Merchant": "Uber",
+        "Amount (€)": "168.69",
+        "Tag1": "transporte",
+        "Tag2": "servicios",
+        "Tag3": "movilidad",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-02-02",
+        "Merchant": "Thomas Cook",
+        "Amount (€)": "842.9",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vacaciones",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-04-23",
+        "Merchant": "Starbucks",
+        "Amount (€)": "70.58",
+        "Tag1": "cafetería",
+        "Tag2": "bebidas",
+        "Tag3": "café",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-01",
+        "Merchant": "Boots",
+        "Amount (€)": "65.43",
+        "Tag1": "farmacia",
+        "Tag2": "salud",
+        "Tag3": "belleza",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-02-18",
+        "Merchant": "Mercadona",
+        "Amount (€)": "87.26",
+        "Tag1": "supermercado",
+        "Tag2": "comida",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-08-01",
+        "Merchant": "Nike",
+        "Amount (€)": "271.07",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "calzado",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-01",
+        "Merchant": "Dia",
+        "Amount (€)": "49.43",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-11-23",
+        "Merchant": "El Corte Inglés",
+        "Amount (€)": "224.13",
+        "Tag1": "tienda",
+        "Tag2": "moda",
+        "Tag3": "ropa",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-08-19",
+        "Merchant": "Thomas Cook",
+        "Amount (€)": "284.54",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vacaciones",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-05-25",
+        "Merchant": "Chipotle",
+        "Amount (€)": "7.19",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-04-12",
+        "Merchant": "Airbnb",
+        "Amount (€)": "706.54",
+        "Tag1": "alojamiento",
+        "Tag2": "viajes",
+        "Tag3": "vacaciones",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-09-16",
+        "Merchant": "El Corte Inglés",
+        "Amount (€)": "85.77",
+        "Tag1": "tienda",
+        "Tag2": "moda",
+        "Tag3": "ropa",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-06-15",
+        "Merchant": "Booking.com",
+        "Amount (€)": "462.41",
+        "Tag1": "alojamiento",
+        "Tag2": "reservas",
+        "Tag3": "viajes",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-09-29",
+        "Merchant": "KFC",
+        "Amount (€)": "55.5",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-07-09",
+        "Merchant": "Pizza Hut",
+        "Amount (€)": "20.31",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-07-07",
+        "Merchant": "Zara",
+        "Amount (€)": "48.26",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-04-22",
+        "Merchant": "Bath & Body Works",
+        "Amount (€)": "216.41",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-11-23",
+        "Merchant": "Papa John's",
+        "Amount (€)": "98.41",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-12-05",
+        "Merchant": "Zalando",
+        "Amount (€)": "219.9",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda online",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-06-27",
+        "Merchant": "Thomas Cook",
+        "Amount (€)": "261.51",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vacaciones",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-10-04",
+        "Merchant": "MediaMarkt",
+        "Amount (€)": "244.31",
+        "Tag1": "electrónica",
+        "Tag2": "electrodomésticos",
+        "Tag3": "tienda",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-04-18",
+        "Merchant": "Apple Store",
+        "Amount (€)": "93.88",
+        "Tag1": "electrónica",
+        "Tag2": "tecnología",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-03-08",
+        "Merchant": "Ikea",
+        "Amount (€)": "145.03",
+        "Tag1": "hogar",
+        "Tag2": "muebles",
+        "Tag3": "decoración",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-01-05",
+        "Merchant": "El Corte Inglés",
+        "Amount (€)": "282",
+        "Tag1": "tienda",
+        "Tag2": "moda",
+        "Tag3": "ropa",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-01-17",
+        "Merchant": "El Corte Inglés",
+        "Amount (€)": "293.08",
+        "Tag1": "tienda",
+        "Tag2": "moda",
+        "Tag3": "ropa",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-04-05",
+        "Merchant": "Zalando",
+        "Amount (€)": "237.89",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda online",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-11-07",
+        "Merchant": "La Caixa",
+        "Amount (€)": "-350.65",
+        "Tag1": "banca",
+        "Tag2": "finanzas",
+        "Tag3": "servicios bancarios",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-12",
+        "Merchant": "Carrefour",
+        "Amount (€)": "44.54",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-09-21",
+        "Merchant": "Expedia",
+        "Amount (€)": "648.47",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vuelos",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-04-04",
+        "Merchant": "Skyscanner",
+        "Amount (€)": "417.88",
+        "Tag1": "viajes",
+        "Tag2": "vuelos",
+        "Tag3": "reservas",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-10-29",
+        "Merchant": "Bath & Body Works",
+        "Amount (€)": "175.24",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-13",
+        "Merchant": "Patagonia",
+        "Amount (€)": "175.83",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-12-15",
+        "Merchant": "MediaMarkt",
+        "Amount (€)": "156.77",
+        "Tag1": "electrónica",
+        "Tag2": "electrodomésticos",
+        "Tag3": "tienda",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-03-18",
+        "Merchant": "Thomas Cook",
+        "Amount (€)": "182.61",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vacaciones",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-01-20",
+        "Merchant": "Lonely Planet",
+        "Amount (€)": "69.32",
+        "Tag1": "viajes",
+        "Tag2": "guías",
+        "Tag3": "libros",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-10-04",
+        "Merchant": "Subway",
+        "Amount (€)": "5.59",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-18",
+        "Merchant": "Lidl",
+        "Amount (€)": "91.22",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-07-14",
+        "Merchant": "Booking.com",
+        "Amount (€)": "883.2",
+        "Tag1": "alojamiento",
+        "Tag2": "reservas",
+        "Tag3": "viajes",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-08-31",
+        "Merchant": "Etsy",
+        "Amount (€)": "237.54",
+        "Tag1": "e-commerce",
+        "Tag2": "artesanías",
+        "Tag3": "compras online",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-04-18",
+        "Merchant": "ASOS",
+        "Amount (€)": "287.58",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda online",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-10-06",
+        "Merchant": "Lonely Planet",
+        "Amount (€)": "783.38",
+        "Tag1": "viajes",
+        "Tag2": "guías",
+        "Tag3": "libros",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-05-02",
+        "Merchant": "Boots",
+        "Amount (€)": "158.05",
+        "Tag1": "farmacia",
+        "Tag2": "salud",
+        "Tag3": "belleza",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-07-02",
+        "Merchant": "Aliexpress",
+        "Amount (€)": "334.85",
+        "Tag1": "e-commerce",
+        "Tag2": "compras online",
+        "Tag3": "electrónica",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-02-19",
+        "Merchant": "Vinted",
+        "Amount (€)": "238.06",
+        "Tag1": "e-commerce",
+        "Tag2": "ropa de segunda mano",
+        "Tag3": "compras online",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-10-01",
+        "Merchant": "Chipotle",
+        "Amount (€)": "66.46",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-04-04",
+        "Merchant": "Aliexpress",
+        "Amount (€)": "195.89",
+        "Tag1": "e-commerce",
+        "Tag2": "compras online",
+        "Tag3": "electrónica",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-07-21",
+        "Merchant": "ASOS",
+        "Amount (€)": "470.64",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda online",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-12-15",
+        "Merchant": "Decathlon",
+        "Amount (€)": "170.06",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-02-17",
+        "Merchant": "Zara",
+        "Amount (€)": "203.98",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-11-25",
+        "Merchant": "Domino's Pizza",
+        "Amount (€)": "64.03",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-11-22",
+        "Merchant": "TUI",
+        "Amount (€)": "331.51",
+        "Tag1": "viajes",
+        "Tag2": "vacaciones",
+        "Tag3": "paquetes",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-01-17",
+        "Merchant": "Amazon",
+        "Amount (€)": "227.46",
+        "Tag1": "e-commerce",
+        "Tag2": "electrónica",
+        "Tag3": "compras online",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-28",
+        "Merchant": "El Corte Inglés",
+        "Amount (€)": "109.47",
+        "Tag1": "tienda",
+        "Tag2": "moda",
+        "Tag3": "ropa",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-12-08",
+        "Merchant": "Airbnb",
+        "Amount (€)": "834.36",
+        "Tag1": "alojamiento",
+        "Tag2": "viajes",
+        "Tag3": "vacaciones",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-02-01",
+        "Merchant": "Boots",
+        "Amount (€)": "147.34",
+        "Tag1": "farmacia",
+        "Tag2": "salud",
+        "Tag3": "belleza",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-02-27",
+        "Merchant": "Mango",
+        "Amount (€)": "17.86",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-08-06",
+        "Merchant": "Expedia",
+        "Amount (€)": "951.6",
+        "Tag1": "viajes",
+        "Tag2": "reservas",
+        "Tag3": "vuelos",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-04-22",
+        "Merchant": "Etsy",
+        "Amount (€)": "192.13",
+        "Tag1": "e-commerce",
+        "Tag2": "artesanías",
+        "Tag3": "compras online",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-05-06",
+        "Merchant": "Mango",
+        "Amount (€)": "174.29",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-08-19",
+        "Merchant": "Panera Bread",
+        "Amount (€)": "63.02",
+        "Tag1": "restaurante",
+        "Tag2": "comida saludable",
+        "Tag3": "comida",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-09-07",
+        "Merchant": "Skyscanner",
+        "Amount (€)": "755.51",
+        "Tag1": "viajes",
+        "Tag2": "vuelos",
+        "Tag3": "reservas",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-10-22",
+        "Merchant": "Decathlon",
+        "Amount (€)": "98.17",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-05-31",
+        "Merchant": "Subway",
+        "Amount (€)": "12.66",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-04",
+        "Merchant": "Decathlon",
+        "Amount (€)": "178.24",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-07-31",
+        "Merchant": "The North Face",
+        "Amount (€)": "241.3",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "tienda",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-12-03",
+        "Merchant": "Carrefour",
+        "Amount (€)": "76.91",
+        "Tag1": "supermercado",
+        "Tag2": "comestibles",
+        "Tag3": "alimentación",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-05-12",
+        "Merchant": "Fnac",
+        "Amount (€)": "44.61",
+        "Tag1": "electrónica",
+        "Tag2": "entretenimiento",
+        "Tag3": "librería",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-10-22",
+        "Merchant": "H&M",
+        "Amount (€)": "118.89",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-08-23",
+        "Merchant": "Booking.com",
+        "Amount (€)": "340.93",
+        "Tag1": "alojamiento",
+        "Tag2": "reservas",
+        "Tag3": "viajes",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-12-31",
+        "Merchant": "Red Lobster",
+        "Amount (€)": "53.78",
+        "Tag1": "restaurante",
+        "Tag2": "mariscos",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-07",
+        "Merchant": "Sephora",
+        "Amount (€)": "230.9",
+        "Tag1": "belleza",
+        "Tag2": "cosméticos",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-01-28",
+        "Merchant": "Nike",
+        "Amount (€)": "187.09",
+        "Tag1": "deportes",
+        "Tag2": "ropa deportiva",
+        "Tag3": "calzado",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-12-25",
+        "Merchant": "Spotify",
+        "Amount (€)": "14.75",
+        "Tag1": "entretenimiento",
+        "Tag2": "música",
+        "Tag3": "suscripción",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-03-26",
+        "Merchant": "Boots",
+        "Amount (€)": "32.76",
+        "Tag1": "farmacia",
+        "Tag2": "salud",
+        "Tag3": "belleza",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-06-26",
+        "Merchant": "Fnac",
+        "Amount (€)": "48.93",
+        "Tag1": "electrónica",
+        "Tag2": "entretenimiento",
+        "Tag3": "librería",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-05-03",
+        "Merchant": "Samsung Store",
+        "Amount (€)": "231.5",
+        "Tag1": "electrónica",
+        "Tag2": "tecnología",
+        "Tag3": "tienda",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-01-19",
+        "Merchant": "Apple Store",
+        "Amount (€)": "29.51",
+        "Tag1": "electrónica",
+        "Tag2": "tecnología",
+        "Tag3": "tienda",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-10",
+        "Merchant": "Etsy",
+        "Amount (€)": "382.49",
+        "Tag1": "e-commerce",
+        "Tag2": "artesanías",
+        "Tag3": "compras online",
+        "City": "Sevilla"
+    },
+    {
+        "Date": "2023-04-05",
+        "Merchant": "Zalando",
+        "Amount (€)": "406.57",
+        "Tag1": "moda",
+        "Tag2": "ropa",
+        "Tag3": "tienda online",
+        "City": "Barcelona"
+    },
+    {
+        "Date": "2023-05-24",
+        "Merchant": "Burger King",
+        "Amount (€)": "63.68",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-10-29",
+        "Merchant": "TripAdvisor",
+        "Amount (€)": "367.23",
+        "Tag1": "viajes",
+        "Tag2": "reseñas",
+        "Tag3": "reservas",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-04-12",
+        "Merchant": "Dunkin' Donuts",
+        "Amount (€)": "90.37",
+        "Tag1": "cafetería",
+        "Tag2": "bebidas",
+        "Tag3": "café",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-10-17",
+        "Merchant": "TripAdvisor",
+        "Amount (€)": "644.33",
+        "Tag1": "viajes",
+        "Tag2": "reseñas",
+        "Tag3": "reservas",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-05-14",
+        "Merchant": "KFC",
+        "Amount (€)": "9.79",
+        "Tag1": "restaurante",
+        "Tag2": "comida rápida",
+        "Tag3": "comida",
+        "City": "Valencia"
+    },
+    {
+        "Date": "2023-07-02",
+        "Merchant": "Red Lobster",
+        "Amount (€)": "5.81",
+        "Tag1": "restaurante",
+        "Tag2": "mariscos",
+        "Tag3": "comida",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-09-10",
+        "Merchant": "Spotify",
+        "Amount (€)": "13.3",
+        "Tag1": "entretenimiento",
+        "Tag2": "música",
+        "Tag3": "suscripción",
+        "City": "Madrid"
+    },
+    {
+        "Date": "2023-02-23",
+        "Merchant": "El Corte Inglés",
+        "Amount (€)": "169",
+        "Tag1": "tienda",
+        "Tag2": "moda",
+        "Tag3": "ropa",
+        "City": "Madrid"
+    }
+]
